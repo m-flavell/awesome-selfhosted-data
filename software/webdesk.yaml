@@ -1,0 +1,13 @@
+name: Webdesk
+description: A secure browser-based desktop workspace and file management suite with granular rights management with cybersecurity controls.
+url: https://907technology.com/
+# If you have a public repository (build scripts, appliance manifests, or source code):
+#source_code_url: https://github.com/your-org/webdesk
+license:
+  - proprietary
+tags:
+  - File Transfer - Web-based File Managers
+  - Groupware
+  - WebDesktop
+platforms:
+  - Python
